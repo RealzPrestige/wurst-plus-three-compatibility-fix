@@ -2,7 +2,7 @@
 Better compatibility for wurst-plus-three-0.4.0
 
 
-// if you dont trust the version i made, here is how to do it manually: \\
+// if you dont trust the version i made, here is how to do it manually: \\\
 
 
 Basically wurst-plus-three is incompatible with most clients. I made a fix for this, you can do this very easily yourself. Here is how you do it:
